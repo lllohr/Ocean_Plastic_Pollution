@@ -3,9 +3,11 @@
 Ocean Plastic Pollution
 ## The reason they selected the topic:
 Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems. 
-##Question to answer with the data:
+
+## Question to answer with the data:
 What are the top 10 types of plastic pollution in the ocean?
 How much plastic will be in the oceans by 2030? (machine learning)
+
 ## Datasets URL's: 
 
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
