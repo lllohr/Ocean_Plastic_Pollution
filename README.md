@@ -14,7 +14,7 @@ How much plastic will be in the oceans by 2030? (machine learning)
 
 2. https://www.coaps.fsu.edu/our-expertise/global-model-for-marine-litter
 
-3. https://wesr.unep.org/downloader (Plastic patches greater than 10 meters (SDG 14.1.1b)) 
+3. https://wesr.unep.org/downloader (Plastic on beach tonnes)) 
 
 4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
