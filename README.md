@@ -16,6 +16,8 @@ How much plastic will be in the oceans by 2030? (machine learning)
 
 3. https://wesr.unep.org/downloader (Plastic patches greater than 10 meters (SDG 14.1.1b)) 
 
+4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
+
 #### Database
 
 We will create a SQL database using the datasets.
