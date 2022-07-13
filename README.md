@@ -5,8 +5,11 @@ Ocean Plastic Pollution
 Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems. 
 
 ## Questions to answer with the data:
-What are the top 10 types of plastic pollution in the ocean?
-How much plastic will be in the oceans by 2030? (machine learning)
+
+1. What are the top 10 types of plastic pollution in the ocean? 
+2. Which countries pollute the most plastic?
+3. How much plastic will be in the oceans by 2030?
+
 
 ## Datasets: 
 
