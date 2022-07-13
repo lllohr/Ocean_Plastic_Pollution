@@ -1,0 +1,701 @@
+COUNTRY NAME,YEAR,VALUE
+Albania,2017,16481.0
+Albania,2018,18094.0
+Albania,2019,18500.0
+Albania,2020,20157.0
+Albania,2021,19828.0
+Algeria,2017,153459.0
+Algeria,2018,144421.0
+Algeria,2019,157950.0
+Algeria,2020,175154.0
+Algeria,2021,180214.0
+Angola,2017,48632.0
+Angola,2018,50225.0
+Angola,2019,52877.0
+Angola,2020,54660.0
+Angola,2021,55728.0
+Antigua and Barbuda,2017,175.0
+Antigua and Barbuda,2018,185.0
+Antigua and Barbuda,2019,172.0
+Antigua and Barbuda,2020,144.0
+Antigua and Barbuda,2021,151.0
+Argentina,2017,4135.0
+Argentina,2018,4473.0
+Argentina,2019,4847.0
+Argentina,2020,5804.0
+Argentina,2021,6262.0
+Australia,2017,2522.0
+Australia,2018,2498.0
+Australia,2019,2920.0
+Australia,2020,2857.0
+Australia,2021,2754.0
+Bahamas,2017,217.0
+Bahamas,2018,193.0
+Bahamas,2019,179.0
+Bahamas,2020,159.0
+Bahamas,2021,149.0
+Bahrain,2017,189.0
+Bahrain,2018,197.0
+Bahrain,2019,204.0
+Bahrain,2020,213.0
+Bahrain,2021,212.0
+Bangladesh,2017,289594.0
+Bangladesh,2018,297832.0
+Bangladesh,2019,315751.0
+Bangladesh,2020,328407.0
+Bangladesh,2021,355502.0
+Barbados,2017,308.0
+Barbados,2018,303.0
+Barbados,2019,302.0
+Barbados,2020,297.0
+Barbados,2021,302.0
+Belgium,2017,24.0
+Belgium,2018,19.0
+Belgium,2019,16.0
+Belgium,2020,23.0
+Belgium,2021,22.0
+Belize,2017,14421.0
+Belize,2018,14955.0
+Belize,2019,15383.0
+Belize,2020,16134.0
+Belize,2021,16390.0
+Benin,2017,29451.0
+Benin,2018,30816.0
+Benin,2019,32298.0
+Benin,2020,32843.0
+Benin,2021,33554.0
+Brazil,2017,583089.0
+Brazil,2018,602121.0
+Brazil,2019,639659.0
+Brazil,2020,638401.0
+Brazil,2021,634888.0
+Brunei Darussalam,2017,650.0
+Brunei Darussalam,2018,746.0
+Brunei Darussalam,2019,797.0
+Brunei Darussalam,2020,714.0
+Brunei Darussalam,2021,733.0
+Bulgaria,2017,90.0
+Bulgaria,2018,139.0
+Bulgaria,2019,121.0
+Bulgaria,2020,148.0
+Bulgaria,2021,120.0
+Cabo Verde,2017,821.0
+Cabo Verde,2018,892.0
+Cabo Verde,2019,975.0
+Cabo Verde,2020,963.0
+Cabo Verde,2021,996.0
+Cambodia,2017,1875.0
+Cambodia,2018,2149.0
+Cambodia,2019,2212.0
+Cambodia,2020,2342.0
+Cambodia,2021,2240.0
+Cameroon,2017,62408.0
+Cameroon,2018,65253.0
+Cameroon,2019,67708.0
+Cameroon,2020,69544.0
+Cameroon,2021,70773.0
+Canada,2017,367.0
+Canada,2018,431.0
+Canada,2019,421.0
+Canada,2020,398.0
+Canada,2021,449.0
+Chile,2017,1212.0
+Chile,2018,1277.0
+Chile,2019,1447.0
+Chile,2020,1669.0
+Chile,2021,1950.0
+China,2017,2290405.0
+China,2018,2498228.0
+China,2019,2683611.0
+China,2020,2777198.0
+China,2021,2622299.0
+Colombia,2017,41534.0
+Colombia,2018,45388.0
+Colombia,2019,47505.0
+Colombia,2020,45131.0
+Colombia,2021,47917.0
+Comoros,2017,23664.0
+Comoros,2018,23771.0
+Comoros,2019,24690.0
+Comoros,2020,24046.0
+Comoros,2021,25582.0
+Congo,2017,8585.0
+Congo,2018,9074.0
+Congo,2019,9476.0
+Congo,2020,9595.0
+Congo,2021,9851.0
+Costa Rica,2017,3992.0
+Costa Rica,2018,4343.0
+Costa Rica,2019,4384.0
+Costa Rica,2020,4420.0
+Costa Rica,2021,4719.0
+Cote d'Ivoire,2017,53881.0
+Cote d'Ivoire,2018,55603.0
+Cote d'Ivoire,2019,57394.0
+Cote d'Ivoire,2020,58930.0
+Cote d'Ivoire,2021,60457.0
+Croatia,2017,3437.0
+Croatia,2018,3976.0
+Croatia,2019,3963.0
+Croatia,2020,4153.0
+Croatia,2021,4007.0
+Cyprus,2017,128.0
+Cyprus,2018,128.0
+Cyprus,2019,123.0
+Cyprus,2020,142.0
+Cyprus,2021,143.0
+Democratic People's Republic of Korea,2017,8780.0
+Democratic People's Republic of Korea,2018,7865.0
+Democratic People's Republic of Korea,2019,8873.0
+Democratic People's Republic of Korea,2020,9765.0
+Democratic People's Republic of Korea,2021,9741.0
+Democratic Republic of the Congo,2017,138.0
+Democratic Republic of the Congo,2018,142.0
+Democratic Republic of the Congo,2019,149.0
+Democratic Republic of the Congo,2020,154.0
+Democratic Republic of the Congo,2021,161.0
+Denmark,2017,141.0
+Denmark,2018,121.0
+Denmark,2019,125.0
+Denmark,2020,144.0
+Denmark,2021,140.0
+Djibouti,2017,2827.0
+Djibouti,2018,3101.0
+Djibouti,2019,3401.0
+Djibouti,2020,3079.0
+Djibouti,2021,3352.0
+Dominica,2017,338.0
+Dominica,2018,370.0
+Dominica,2019,408.0
+Dominica,2020,377.0
+Dominica,2021,382.0
+Dominican Republic,2017,75791.0
+Dominican Republic,2018,79838.0
+Dominican Republic,2019,83120.0
+Dominican Republic,2020,76807.0
+Dominican Republic,2021,77384.0
+Ecuador,2017,27519.0
+Ecuador,2018,28725.0
+Ecuador,2019,29678.0
+Ecuador,2020,30727.0
+Ecuador,2021,31530.0
+Egypt,2017,222297.0
+Egypt,2018,209725.0
+Egypt,2019,208319.0
+Egypt,2020,226065.0
+Egypt,2021,231991.0
+El Salvador,2017,7532.0
+El Salvador,2018,7382.0
+El Salvador,2019,7504.0
+El Salvador,2020,9136.0
+El Salvador,2021,9761.0
+Equatorial Guinea,2017,4904.0
+Equatorial Guinea,2018,5130.0
+Equatorial Guinea,2019,5328.0
+Equatorial Guinea,2020,5464.0
+Equatorial Guinea,2021,5477.0
+Eritrea,2017,4850.0
+Eritrea,2018,4917.0
+Eritrea,2019,5677.0
+Eritrea,2020,5231.0
+Eritrea,2021,5918.0
+Estonia,2017,127.0
+Estonia,2018,133.0
+Estonia,2019,125.0
+Estonia,2020,147.0
+Estonia,2021,126.0
+Fiji,2017,2060.0
+Fiji,2018,1987.0
+Fiji,2019,2340.0
+Fiji,2020,2391.0
+Fiji,2021,2253.0
+Finland,2017,380.0
+Finland,2018,383.0
+Finland,2019,397.0
+Finland,2020,436.0
+Finland,2021,374.0
+France,2017,1136.0
+France,2018,1104.0
+France,2019,1105.0
+France,2020,1257.0
+France,2021,1257.0
+Gabon,2017,2025.0
+Gabon,2018,2123.0
+Gabon,2019,2199.0
+Gabon,2020,2256.0
+Gabon,2021,2305.0
+Gambia,2017,10135.0
+Gambia,2018,11411.0
+Gambia,2019,12178.0
+Gambia,2020,12875.0
+Gambia,2021,13960.0
+Georgia,2017,315.0
+Georgia,2018,423.0
+Georgia,2019,424.0
+Georgia,2020,464.0
+Georgia,2021,439.0
+Germany,2017,1928.0
+Germany,2018,1696.0
+Germany,2019,1899.0
+Germany,2020,2071.0
+Germany,2021,2082.0
+Ghana,2017,98997.0
+Ghana,2018,103099.0
+Ghana,2019,107906.0
+Ghana,2020,109255.0
+Ghana,2021,114306.0
+Greece,2017,26962.0
+Greece,2018,27021.0
+Greece,2019,25983.0
+Greece,2020,29143.0
+Greece,2021,29349.0
+Grenada,2017,533.0
+Grenada,2018,535.0
+Grenada,2019,553.0
+Grenada,2020,565.0
+Grenada,2021,595.0
+Guatemala,2017,21123.0
+Guatemala,2018,20626.0
+Guatemala,2019,19015.0
+Guatemala,2020,20833.0
+Guatemala,2021,22038.0
+Guinea,2017,23307.0
+Guinea,2018,24402.0
+Guinea,2019,25167.0
+Guinea,2020,26011.0
+Guinea,2021,26610.0
+Guinea-Bissau,2017,9397.0
+Guinea-Bissau,2018,10523.0
+Guinea-Bissau,2019,10819.0
+Guinea-Bissau,2020,11295.0
+Guinea-Bissau,2021,11830.0
+Guyana,2017,14021.0
+Guyana,2018,15418.0
+Guyana,2019,15235.0
+Guyana,2020,13978.0
+Guyana,2021,14887.0
+Haiti,2017,73756.0
+Haiti,2018,76940.0
+Haiti,2019,84237.0
+Haiti,2020,81969.0
+Haiti,2021,84912.0
+Honduras,2017,25202.0
+Honduras,2018,25652.0
+Honduras,2019,26859.0
+Honduras,2020,28464.0
+Honduras,2021,28311.0
+Iceland,2017,9.0
+Iceland,2018,14.0
+Iceland,2019,15.0
+Iceland,2020,19.0
+Iceland,2021,16.0
+India,2017,861003.0
+India,2018,928154.0
+India,2019,966437.0
+India,2020,990595.0
+India,2021,1056001.0
+Indonesia,2017,512163.0
+Indonesia,2018,559428.0
+Indonesia,2019,599014.0
+Indonesia,2020,514480.0
+Indonesia,2021,535163.0
+Iran (Islamic Republic of),2017,9780.0
+Iran (Islamic Republic of),2018,10281.0
+Iran (Islamic Republic of),2019,10750.0
+Iran (Islamic Republic of),2020,11172.0
+Iran (Islamic Republic of),2021,11269.0
+Ireland,2017,543.0
+Ireland,2018,551.0
+Ireland,2019,508.0
+Ireland,2020,556.0
+Ireland,2021,506.0
+Israel,2017,2416.0
+Israel,2018,2263.0
+Israel,2019,2368.0
+Israel,2020,2558.0
+Israel,2021,2598.0
+Italy,2017,5748.0
+Italy,2018,5627.0
+Italy,2019,5930.0
+Italy,2020,6808.0
+Italy,2021,6761.0
+Jamaica,2017,15047.0
+Jamaica,2018,15283.0
+Jamaica,2019,16260.0
+Jamaica,2020,16467.0
+Jamaica,2021,16981.0
+Japan,2017,3182.0
+Japan,2018,3126.0
+Japan,2019,3208.0
+Japan,2020,3077.0
+Japan,2021,2931.0
+Kenya,2017,7266.0
+Kenya,2018,7669.0
+Kenya,2019,7941.0
+Kenya,2020,7403.0
+Kenya,2021,8055.0
+Kiribati,2017,16.0
+Kiribati,2018,16.0
+Kiribati,2019,16.0
+Kiribati,2020,16.0
+Kiribati,2021,18.0
+Kuwait,2017,11706.0
+Kuwait,2018,12490.0
+Kuwait,2019,12740.0
+Kuwait,2020,13079.0
+Kuwait,2021,13141.0
+Latvia,2017,196.0
+Latvia,2018,183.0
+Latvia,2019,211.0
+Latvia,2020,213.0
+Latvia,2021,199.0
+Lebanon,2017,19799.0
+Lebanon,2018,19062.0
+Lebanon,2019,19419.0
+Lebanon,2020,21415.0
+Lebanon,2021,21964.0
+Liberia,2017,13202.0
+Liberia,2018,13685.0
+Liberia,2019,14220.0
+Liberia,2020,14729.0
+Liberia,2021,15030.0
+Libya,2017,74196.0
+Libya,2018,72565.0
+Libya,2019,73477.0
+Libya,2020,81878.0
+Libya,2021,80149.0
+Lithuania,2017,70.0
+Lithuania,2018,61.0
+Lithuania,2019,72.0
+Lithuania,2020,72.0
+Lithuania,2021,70.0
+Madagascar,2017,1991.0
+Madagascar,2018,2108.0
+Madagascar,2019,2132.0
+Madagascar,2020,2247.0
+Madagascar,2021,2291.0
+Malaysia,2017,294932.0
+Malaysia,2018,321731.0
+Malaysia,2019,332752.0
+Malaysia,2020,328763.0
+Malaysia,2021,339437.0
+Maldives,2017,102.0
+Maldives,2018,108.0
+Maldives,2019,102.0
+Maldives,2020,95.0
+Maldives,2021,115.0
+Malta,2017,97.0
+Malta,2018,89.0
+Malta,2019,107.0
+Malta,2020,110.0
+Malta,2021,106.0
+Mauritania,2017,2471.0
+Mauritania,2018,2671.0
+Mauritania,2019,2845.0
+Mauritania,2020,2875.0
+Mauritania,2021,3002.0
+Mauritius,2017,50.0
+Mauritius,2018,49.0
+Mauritius,2019,53.0
+Mauritius,2020,58.0
+Mauritius,2021,57.0
+Mexico,2017,29054.0
+Mexico,2018,29349.0
+Mexico,2019,31004.0
+Mexico,2020,33514.0
+Mexico,2021,35359.0
+Micronesia (Federated States of),2017,148.0
+Micronesia (Federated States of),2018,167.0
+Micronesia (Federated States of),2019,167.0
+Micronesia (Federated States of),2020,181.0
+Micronesia (Federated States of),2021,183.0
+Montenegro,2017,1599.0
+Montenegro,2018,1768.0
+Montenegro,2019,1804.0
+Montenegro,2020,1928.0
+Montenegro,2021,1965.0
+Morocco,2017,36224.0
+Morocco,2018,38348.0
+Morocco,2019,44086.0
+Morocco,2020,42304.0
+Morocco,2021,44650.0
+Mozambique,2017,67216.0
+Mozambique,2018,68997.0
+Mozambique,2019,72578.0
+Mozambique,2020,73396.0
+Mozambique,2021,74006.0
+Myanmar,2017,186365.0
+Myanmar,2018,200820.0
+Myanmar,2019,209493.0
+Myanmar,2020,215575.0
+Myanmar,2021,230387.0
+Namibia,2017,334.0
+Namibia,2018,380.0
+Namibia,2019,387.0
+Namibia,2020,406.0
+Namibia,2021,435.0
+Netherlands,2017,7406.0
+Netherlands,2018,6135.0
+Netherlands,2019,6488.0
+Netherlands,2020,7261.0
+Netherlands,2021,7551.0
+New Zealand,2017,115.0
+New Zealand,2018,109.0
+New Zealand,2019,109.0
+New Zealand,2020,100.0
+New Zealand,2021,85.0
+Nicaragua,2017,14843.0
+Nicaragua,2018,15511.0
+Nicaragua,2019,15199.0
+Nicaragua,2020,17465.0
+Nicaragua,2021,19107.0
+Nigeria,2017,456575.0
+Nigeria,2018,477534.0
+Nigeria,2019,496837.0
+Nigeria,2020,510822.0
+Nigeria,2021,517377.0
+Norway,2017,137.0
+Norway,2018,138.0
+Norway,2019,130.0
+Norway,2020,171.0
+Norway,2021,156.0
+Oman,2017,223.0
+Oman,2018,237.0
+Oman,2019,258.0
+Oman,2020,271.0
+Oman,2021,260.0
+Pakistan,2017,51192.0
+Pakistan,2018,54530.0
+Pakistan,2019,53640.0
+Pakistan,2020,56223.0
+Pakistan,2021,57441.0
+Palau,2017,37.0
+Palau,2018,37.0
+Palau,2019,41.0
+Palau,2020,53.0
+Palau,2021,47.0
+Panama,2017,14069.0
+Panama,2018,14750.0
+Panama,2019,16346.0
+Panama,2020,16575.0
+Panama,2021,17849.0
+Papua New Guinea,2017,31627.0
+Papua New Guinea,2018,33149.0
+Papua New Guinea,2019,36164.0
+Papua New Guinea,2020,38027.0
+Papua New Guinea,2021,37386.0
+Peru,2017,36114.0
+Peru,2018,37769.0
+Peru,2019,39863.0
+Peru,2020,40715.0
+Peru,2021,40264.0
+Philippines,2017,1416321.0
+Philippines,2018,1572329.0
+Philippines,2019,1695243.0
+Philippines,2020,1703846.0
+Philippines,2021,1631062.0
+Poland,2017,434.0
+Poland,2018,377.0
+Poland,2019,439.0
+Poland,2020,441.0
+Poland,2021,455.0
+Portugal,2017,477.0
+Portugal,2018,610.0
+Portugal,2019,702.0
+Portugal,2020,698.0
+Portugal,2021,648.0
+Qatar,2017,793.0
+Qatar,2018,832.0
+Qatar,2019,868.0
+Qatar,2020,890.0
+Qatar,2021,910.0
+Republic of Korea,2017,2739.0
+Republic of Korea,2018,2366.0
+Republic of Korea,2019,2865.0
+Republic of Korea,2020,3200.0
+Republic of Korea,2021,3406.0
+Romania,2017,1267.0
+Romania,2018,1971.0
+Romania,2019,1825.0
+Romania,2020,1972.0
+Romania,2021,1777.0
+Russian Federation,2017,19921.0
+Russian Federation,2018,20007.0
+Russian Federation,2019,20769.0
+Russian Federation,2020,22549.0
+Russian Federation,2021,21446.0
+Saint Kitts and Nevis,2017,26.0
+Saint Kitts and Nevis,2018,27.0
+Saint Kitts and Nevis,2019,29.0
+Saint Kitts and Nevis,2020,24.0
+Saint Kitts and Nevis,2021,23.0
+Saint Lucia,2017,1554.0
+Saint Lucia,2018,1555.0
+Saint Lucia,2019,1591.0
+Saint Lucia,2020,1538.0
+Saint Lucia,2021,1639.0
+Saint Vincent and the Grenadines,2017,426.0
+Saint Vincent and the Grenadines,2018,456.0
+Saint Vincent and the Grenadines,2019,466.0
+Saint Vincent and the Grenadines,2020,488.0
+Saint Vincent and the Grenadines,2021,477.0
+Samoa,2017,753.0
+Samoa,2018,719.0
+Samoa,2019,809.0
+Samoa,2020,784.0
+Samoa,2021,788.0
+Sao Tome and Principe,2017,1163.0
+Sao Tome and Principe,2018,1174.0
+Sao Tome and Principe,2019,1255.0
+Sao Tome and Principe,2020,1283.0
+Sao Tome and Principe,2021,1332.0
+Saudi Arabia,2017,3735.0
+Saudi Arabia,2018,3931.0
+Saudi Arabia,2019,4099.0
+Saudi Arabia,2020,4199.0
+Saudi Arabia,2021,4377.0
+Senegal,2017,16530.0
+Senegal,2018,18402.0
+Senegal,2019,19569.0
+Senegal,2020,20062.0
+Senegal,2021,22147.0
+Seychelles,2017,20.0
+Seychelles,2018,22.0
+Seychelles,2019,23.0
+Seychelles,2020,21.0
+Seychelles,2021,22.0
+Sierra Leone,2017,21909.0
+Sierra Leone,2018,22893.0
+Sierra Leone,2019,23826.0
+Sierra Leone,2020,24562.0
+Sierra Leone,2021,24860.0
+Solomon Islands,2017,23945.0
+Solomon Islands,2018,24806.0
+Solomon Islands,2019,27939.0
+Solomon Islands,2020,28514.0
+Solomon Islands,2021,30405.0
+Somalia,2017,2064.0
+Somalia,2018,2136.0
+Somalia,2019,2371.0
+Somalia,2020,2151.0
+Somalia,2021,2296.0
+South Africa,2017,22487.0
+South Africa,2018,24281.0
+South Africa,2019,30352.0
+South Africa,2020,31931.0
+South Africa,2021,31862.0
+Spain,2017,5137.0
+Spain,2018,4962.0
+Spain,2019,5708.0
+Spain,2020,5827.0
+Spain,2021,6288.0
+Sri Lanka,2017,37725.0
+Sri Lanka,2018,39160.0
+Sri Lanka,2019,41648.0
+Sri Lanka,2020,40800.0
+Sri Lanka,2021,45035.0
+Sudan,2017,10176.0
+Sudan,2018,10679.0
+Sudan,2019,11308.0
+Sudan,2020,11249.0
+Sudan,2021,11847.0
+Suriname,2017,10450.0
+Suriname,2018,11657.0
+Suriname,2019,11589.0
+Suriname,2020,10135.0
+Suriname,2021,11041.0
+Sweden,2017,533.0
+Sweden,2018,471.0
+Sweden,2019,514.0
+Sweden,2020,587.0
+Sweden,2021,546.0
+Syrian Arab Republic,2017,3010.0
+Syrian Arab Republic,2018,2792.0
+Syrian Arab Republic,2019,3019.0
+Syrian Arab Republic,2020,3197.0
+Syrian Arab Republic,2021,3339.0
+Thailand,2017,288247.0
+Thailand,2018,326310.0
+Thailand,2019,338682.0
+Thailand,2020,345754.0
+Thailand,2021,349148.0
+Timor-Leste,2017,5179.0
+Timor-Leste,2018,5810.0
+Timor-Leste,2019,6238.0
+Timor-Leste,2020,6094.0
+Timor-Leste,2021,6093.0
+Togo,2017,29260.0
+Togo,2018,30301.0
+Togo,2019,31773.0
+Togo,2020,32647.0
+Togo,2021,33189.0
+Tonga,2017,229.0
+Tonga,2018,236.0
+Tonga,2019,246.0
+Tonga,2020,251.0
+Tonga,2021,232.0
+Trinidad and Tobago,2017,31615.0
+Trinidad and Tobago,2018,32188.0
+Trinidad and Tobago,2019,35244.0
+Trinidad and Tobago,2020,33384.0
+Trinidad and Tobago,2021,35383.0
+Tunisia,2017,90765.0
+Tunisia,2018,87293.0
+Tunisia,2019,89175.0
+Tunisia,2020,99877.0
+Tunisia,2021,96337.0
+Turkey,2017,336150.0
+Turkey,2018,377678.0
+Turkey,2019,354437.0
+Turkey,2020,404409.0
+Turkey,2021,392369.0
+Ukraine,2017,20963.0
+Ukraine,2018,27860.0
+Ukraine,2019,25859.0
+Ukraine,2020,28229.0
+Ukraine,2021,26622.0
+United Arab Emirates,2017,2450.0
+United Arab Emirates,2018,2599.0
+United Arab Emirates,2019,2659.0
+United Arab Emirates,2020,2744.0
+United Arab Emirates,2021,2798.0
+United Kingdom of Great Britain and Northern Ireland,2017,6695.0
+United Kingdom of Great Britain and Northern Ireland,2018,6359.0
+United Kingdom of Great Britain and Northern Ireland,2019,6242.0
+United Kingdom of Great Britain and Northern Ireland,2020,6821.0
+United Kingdom of Great Britain and Northern Ireland,2021,6500.0
+United Republic of Tanzania,2017,115062.0
+United Republic of Tanzania,2018,115288.0
+United Republic of Tanzania,2019,114736.0
+United Republic of Tanzania,2020,111054.0
+United Republic of Tanzania,2021,120901.0
+United States of America,2017,15630.0
+United States of America,2018,16437.0
+United States of America,2019,16909.0
+United States of America,2020,17131.0
+United States of America,2021,17744.0
+Uruguay,2017,77417.0
+Uruguay,2018,86096.0
+Uruguay,2019,94544.0
+Uruguay,2020,110834.0
+Uruguay,2021,120598.0
+Vanuatu,2017,868.0
+Vanuatu,2018,841.0
+Vanuatu,2019,997.0
+Vanuatu,2020,975.0
+Vanuatu,2021,931.0
+Venezuela (Bolivarian Republic of),2017,209928.0
+Venezuela (Bolivarian Republic of),2018,224320.0
+Venezuela (Bolivarian Republic of),2019,231129.0
+Venezuela (Bolivarian Republic of),2020,227809.0
+Venezuela (Bolivarian Republic of),2021,240071.0
+Viet Nam,2017,421669.0
+Viet Nam,2018,449326.0
+Viet Nam,2019,484452.0
+Viet Nam,2020,493432.0
+Viet Nam,2021,499309.0
+Yemen,2017,30194.0
+Yemen,2018,34205.0
+Yemen,2019,35625.0
+Yemen,2020,36032.0
+Yemen,2021,36954.0
