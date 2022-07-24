@@ -1,6 +1,17 @@
-# Ocean_Plastic_Pollution
-## Selected topic:
+# Ocean Plastic Pollution
+## Collaborators:
+- Andrea Dacy
+- Laura Lohr
+- Stephanie Perillo
+- Amy Tisland 
+ 
+ ## Links to Google Drive & Tabeau:
+
+[Click here for Dashboard] ()
+
+[Click here for Presenation] ()
 Ocean Plastic Pollution
+
 ## The reason they selected the topic:
 Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems. 
 
