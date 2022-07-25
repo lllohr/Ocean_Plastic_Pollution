@@ -31,21 +31,38 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 
 4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
-## Analysis
-#### Amazon Web Service (AWS) RDS instance & Database
+## Analysis & Results
+
+### Initial Data Analysis
+
+#### Data Cleaning:
+
+### Amazon Web Service (AWS) RDS instance & Database
 1. Read in data from S3 Buckets for four csv files
 2. Connect to the AWS RDS instance and wrote each dataframe into four tables
 
-- [Click here for file](
+![connect AWS](https://user-images.githubusercontent.com/96746207/180674646-f3c935b6-8761-48af-8ffc-a56b1bef180a.png)
+
+- [Click here for File](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Group%20Project_AWS_SQL%20(6).ipynb)
+
 3.  An PostgreSQL database, "plasticpollutiondb " was created along with ten tables
 
-- [Click here for schema]()
-## Re
+![Tables](https://user-images.githubusercontent.com/96746207/180674816-20ac0442-eb09-4153-94d7-daf8bd0d9678.png)
+
+- [Click here for Schema](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Plastic.sql)
+
+ 
 ### Machine Learning Model
 
 To predict how much plastic will be in the oceans by 2030, we will use a linear regression model. 
 
  
+## Dashboard 
+- Dashboard was created in Tableau
+
+## Summary & Recommendation
+
+- 
 
 
 
