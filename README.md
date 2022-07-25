@@ -1,29 +1,28 @@
 # Ocean Plastic Pollution
+
+![PET-bottles-marine-pollution](https://user-images.githubusercontent.com/96746207/180672719-8894e0fe-30fc-4a53-8e27-79a7180e139d.jpg)
+
 ## Collaborators:
 - Andrea Dacy
 - Laura Lohr
 - Stephanie Perillo
 - Amy Tisland 
- 
- ## Links to Google Drive & Tabeau:
 
-  [Click here for Dashboard](https://public.tableau.com/app/profile/amy.tisland/viz/PlasticPollution_16582737898620/Sheet4)
-
-  [Click here for Presenation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit#slide=id.gb77f0cf075_0_0)
-
-
-## The reason they selected the topic:
-Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems. 
-
-## Questions to answer with the data:
-
+##  Project Overview
+The purpose of this project 
 1. What are the top 10 types of plastic pollution in the ocean? 
 2. Which countries pollute the most plastic?
 3. How much plastic will be in the oceans by 2030?
 
+Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems.
+ 
+ ## Links to Tableau & Google Drive:
 
-## Datasets: 
+  [Click here for Dashboard](https://public.tableau.com/app/profile/amy.tisland/viz/PlasticPollution_16582737898620/Sheet4)
 
+  [Click here for Presentation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit#slide=id.gb77f0cf075_0_0)
+
+## Datasets:
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
 
 2. https://www.coaps.fsu.edu/our-expertise/global-model-for-marine-litter
@@ -32,10 +31,21 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 
 4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
-#### Database
+## Analysis
+#### Amazon Web Service (AWS) RDS instance & Database
+1. Read in data from S3 Buckets for four csv files
+2. Connect to the AWS RDS instance and wrote each dataframe into four tables
 
-We will create a SQL database using the datasets.
+- [Click here for file](
+3.  An PostgreSQL database, "plasticpollutiondb " was created along with ten tables
 
-## Machine Learning Model
+- [Click here for schema]()
+## Re
+### Machine Learning Model
 
 To predict how much plastic will be in the oceans by 2030, we will use a linear regression model. 
+
+ 
+
+
+
