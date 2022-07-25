@@ -25,11 +25,9 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 ## Datasets:
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
 
-2. https://www.coaps.fsu.edu/our-expertise/global-model-for-marine-litter
+2. https://wesr.unep.org/downloader (Plastic on beach tonnes)) 
 
-3. https://wesr.unep.org/downloader (Plastic on beach tonnes)) 
-
-4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
+3. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
 ## Analysis & Results
 
