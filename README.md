@@ -49,7 +49,8 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 
 ![Tables](https://user-images.githubusercontent.com/96746207/180674816-20ac0442-eb09-4153-94d7-daf8bd0d9678.png)
 
-- [Click here for Schema](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Plastic.sql)
+- [Click here for plastic Schema](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Plastic.sql)
+- [Click here for plastic_2 Schema](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Plastic_2.sql)
 
  
 ### Machine Learning Model
