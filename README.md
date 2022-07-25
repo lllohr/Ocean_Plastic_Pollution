@@ -20,7 +20,7 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 
   [Click here for Dashboard](https://public.tableau.com/app/profile/amy.tisland/viz/PlasticPollution_16582737898620/Sheet4)
 
-  [Click here for Presentation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit#slide=id.gb77f0cf075_0_0)
+  [Click here for Presentation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit?usp=sharing)
 
 ## Datasets:
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
