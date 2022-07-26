@@ -35,8 +35,8 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 1. Dropping columns/excluding data
 2. Elimination null values
 3. Renaming columns
-4. Assigning new vaules to Country codes
-5. Creatig a key to combine tables
+4. Assigning new vaules to Country codes and plastic pollution
+5. Creating a key to combine tables
 
 ### Amazon Web Service (AWS) RDS instance & Database
 1. Read in data from S3 Buckets for four CSV files
@@ -62,9 +62,13 @@ To predict how much plastic will be in the oceans by 2030, we will use a linear 
 ## Dashboard 
 - Interactive dashboard was created in Tableau
 
-## Summary & Recommendation
+## Analysis Results
+write something here
 
-- 
+Recommendations and improvements for future analysis:
+- Having more time in discovering data sets
+
+
 
 
 
