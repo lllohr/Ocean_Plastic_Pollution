@@ -35,7 +35,7 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 1. Dropping columns/excluding data
 2. Elimination null values
 3. Renaming columns
-4. Assigning new vaules
+4. Assigning new vaules to Country codes
 5. Creatig a key to combine tables
 
 ### Amazon Web Service (AWS) RDS instance & Database
