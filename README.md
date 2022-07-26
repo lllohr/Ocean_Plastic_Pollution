@@ -18,7 +18,7 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
  
  ## Links to Tableau & Google Drive:
 
-  [Click here for Dashboard](https://public.tableau.com/app/profile/amy.tisland/viz/PlasticPollution_16582737898620/Sheet4)
+  [Click here for Dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview)
 
   [Click here for Presentation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit?usp=sharing)
 
@@ -36,14 +36,14 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 #### Data Cleaning:
 
 ### Amazon Web Service (AWS) RDS instance & Database
-1. Read in data from S3 Buckets for four csv files
+1. Read in data from S3 Buckets for four CSV files
 2. Connect to the AWS RDS instance and wrote each dataframe into four tables
 
 ![connect AWS](https://user-images.githubusercontent.com/96746207/180674646-f3c935b6-8761-48af-8ffc-a56b1bef180a.png)
 
 - [Click here for File](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Group%20Project_AWS_SQL%20(6).ipynb)
 
-3.  An PostgreSQL database, "plasticpollutiondb " was created along with ten tables
+3.  An PostgreSQL database, "plasticpollutiondb" was created along with ten tables
 
 ![Tables](https://user-images.githubusercontent.com/96746207/180674816-20ac0442-eb09-4153-94d7-daf8bd0d9678.png)
 
