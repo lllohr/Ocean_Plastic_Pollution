@@ -34,8 +34,9 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 ### Initial Data exploration phase
 1. Dropping columns/excluding data
 2. Elimination null values
-3. Assigning new vaules
-4. Creatig a key to combine tables
+3. Renaming columns
+4. Assigning new vaules
+5. Creatig a key to combine tables
 
 ### Amazon Web Service (AWS) RDS instance & Database
 1. Read in data from S3 Buckets for four CSV files
