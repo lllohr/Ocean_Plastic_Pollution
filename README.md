@@ -9,43 +9,57 @@
 - Amy Tisland 
 
 ##  Project Overview
-The purpose of this project 
-1. What are the top 10 types of plastic pollution in the ocean? 
-2. Which countries pollute the most plastic?
-3. How much plastic will be in the oceans by 2030?
-
 Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems.
- 
- ## Links to Tableau & Google Drive:
 
-  [Click here for Dashboard](https://public.tableau.com/app/profile/amy.tisland/viz/PlasticPollution_16582737898620/Sheet4)
+The purpose of this project is to analyze data on mismanaged plastic in oceans.
+
+We hope to answer the follow questions:
+1. What are the most common types of plastic found in the ocean? 
+2. Which countries pollute the most plastic?
+3. Is there a correlation between a country's GDP (Gross Domestic Product) and ocean plastic pollution?
+
+We chose to create visualizations of our findings in Tableau.
+ 
+ ## Links to Tableau & Google Slides presentation:
+
+  [Click here for Dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview)
 
   [Click here for Presentation](https://docs.google.com/presentation/d/1l6FrRjoLzTBLbwETXVenxeLC7SDigTwAVvR8qT2YDxc/edit?usp=sharing)
 
 ## Datasets:
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
 
-2. https://www.coaps.fsu.edu/our-expertise/global-model-for-marine-litter
+2. https://wesr.unep.org/downloader (Plastic on beach tonnes) 
 
-3. https://wesr.unep.org/downloader (Plastic on beach tonnes)) 
+3. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
-4. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
+4. https://ourworldindata.org/grapher/per-capita-plastic-waste-vs-gdp-per-capita
+
 
 ## Analysis & Results
 
-### Initial Data Analysis
+### Initial Data exploration phase
+1. Dropping columns/excluding data
+2. Elimination null values
+3. Renaming columns
+4. Assigning new vaules to Country codes and plastic pollution
+5. Created a diagram to combine tables for PostgreSQL
+- The image below represents the common connect between our datasets - country:
 
-#### Data Cleaning:
+![QuickDBD-ocean_plastic_pollution](https://user-images.githubusercontent.com/96746207/181399878-1bd2fbae-3bd6-4e1d-a849-fd668410c974.png)
+
+
+   
 
 ### Amazon Web Service (AWS) RDS instance & Database
-1. Read in data from S3 Buckets for four csv files
+1. Read in data from S3 Buckets for four CSV files
 2. Connect to the AWS RDS instance and wrote each dataframe into four tables
 
 ![connect AWS](https://user-images.githubusercontent.com/96746207/180674646-f3c935b6-8761-48af-8ffc-a56b1bef180a.png)
 
 - [Click here for File](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Group%20Project_AWS_SQL%20(6).ipynb)
 
-3.  An PostgreSQL database, "plasticpollutiondb " was created along with ten tables
+3.  A PostgreSQL database, "plasticpollutiondb" was created along with ten tables
 
 ![Tables](https://user-images.githubusercontent.com/96746207/180674816-20ac0442-eb09-4153-94d7-daf8bd0d9678.png)
 
@@ -55,15 +69,24 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
  
 ### Machine Learning Model
 
-To predict how much plastic will be in the oceans by 2030, we will use a linear regression model. 
+To predict how much plastic will be in the oceans by 2030, we will use a linear regression model.
 
  
 ## Dashboard 
-- Dashboard was created in Tableau
+- [Interactive dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview) was created in Tableau
 
-## Summary & Recommendation
+## Analysis Results
 
-- 
+We found the countries that had the highest amounts of mismanaged plastic waste. 
+
+# Recommendations and improvements for future analysis:
+- Having more time in discovering data sets
+- Choosing more robust data sets so that machine learning models are more effective
+- Examine how much waste countries export to other countries 
+- Find data on the types of plastic pollution found in areas outside of Europe
+- Additional predictions considering [The Ocean Cleanup](https://theoceancleanup.com/)'s efforts of removing ocean garbage and intercepting river waste from entering oceans 
+
+
 
 
 
