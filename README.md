@@ -18,7 +18,7 @@ We hope to answer the follow questions:
 2. Which countries pollute the most plastic?
 3. Is there a correlation between a country's GDP (Gross Domestic Product) and ocean plastic pollution?
 
-We chose to create visualizations of our findings in Tableau.
+We chose to use PostgreSQL and various machine learning models. We then created a dashboard in Tableau.
  
  ## Links to Tableau & Google Slides presentation:
 
