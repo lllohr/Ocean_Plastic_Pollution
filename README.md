@@ -11,11 +11,14 @@
 ##  Project Overview
 Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems.
 
-The purpose of this project 
-1. What are the most common type of plastic found in the ocean? 
+The purpose of this project is to analyze data on mismanaged plastic in oceans.
+
+We hope to answer the follow questions:
+1. What are the most common types of plastic found in the ocean? 
 2. Which countries pollute the most plastic?
 3. Is there a correlation between a country's GDP (Gross Domestic Product) and ocean plastic pollution?
 
+We chose to create visualizations of our findings in Tableau.
  
  ## Links to Tableau & Google Slides presentation:
 
@@ -77,6 +80,7 @@ Recommendations and improvements for future analysis:
 - Having more time in discovering data sets
 - Choosing more robust data sets so that machine learning models are more effective
 - Examine how much waste countries export to other countries 
+- Additional predictions considering [The Ocean Cleanup](https://theoceancleanup.com/)'s efforts of removing ocean garbage and intercepting river waste from entering oceans 
 
 
 
