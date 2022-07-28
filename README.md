@@ -9,12 +9,14 @@
 - Amy Tisland 
 
 ##  Project Overview
+Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems.
+
 The purpose of this project 
 1. What are the top 10 types of plastic pollution in the ocean? 
 2. Which countries pollute the most plastic?
 3. How much plastic will be in the oceans by 2030?
 
-Plastic pollution threatens food safety and quality, human health, coastal tourism, and contributes to climate change. Plastic pollution in the ocean has a devastating impact on marine life and ecosystems.
+
  
  ## Links to Tableau & Google Drive:
 
