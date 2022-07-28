@@ -42,7 +42,7 @@ We chose to create visualizations of our findings in Tableau.
 1. Dropping columns/excluding data
 2. Elimination null values
 3. Renaming columns
-4. Assigning new vaules to Country codes and plastic pollution
+4. Assigning new values to Country codes and plastic pollution
 5. Created a diagram to combine tables for PostgreSQL
 - The image below represents the common connect between our datasets - country:
 
