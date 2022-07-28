@@ -14,11 +14,10 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 The purpose of this project 
 1. What are the most common type of plastic found in the ocean? 
 2. Which countries pollute the most plastic?
-3. How much plastic will be in the oceans by 2030?
-
+3. Is there a correlation between a country's GDP (Gross Domestic Product) and ocean plastic pollution?
 
  
- ## Links to Tableau & Google Drive:
+ ## Links to Tableau & Google Slides presentation:
 
   [Click here for Dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview)
 
@@ -27,7 +26,7 @@ The purpose of this project
 ## Datasets:
 1. https://www.kaggle.com/code/mihailpavlyuk/world-map-plasticwaste
 
-2. https://wesr.unep.org/downloader (Plastic on beach tonnes)) 
+2. https://wesr.unep.org/downloader (Plastic on beach tonnes) 
 
 3. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
@@ -39,7 +38,7 @@ The purpose of this project
 3. Renaming columns
 4. Assigning new vaules to Country codes and plastic pollution
 5. Created a diagram to combine tables for PostgreSQL
-- The image below represents the common connect between our datasets, country:
+- The image below represents the common connect between our datasets - country:
 
 ![QuickDBD-ocean_plastic_pollution](https://user-images.githubusercontent.com/96746207/181399878-1bd2fbae-3bd6-4e1d-a849-fd668410c974.png)
 
@@ -54,7 +53,7 @@ The purpose of this project
 
 - [Click here for File](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/main/Database/Group%20Project_AWS_SQL%20(6).ipynb)
 
-3.  An PostgreSQL database, "plasticpollutiondb" was created along with ten tables
+3.  A PostgreSQL database, "plasticpollutiondb" was created along with ten tables
 
 ![Tables](https://user-images.githubusercontent.com/96746207/180674816-20ac0442-eb09-4153-94d7-daf8bd0d9678.png)
 
@@ -64,17 +63,20 @@ The purpose of this project
  
 ### Machine Learning Model
 
-To predict how much plastic will be in the oceans by 2030, we will use a linear regression model. 
+To predict how much plastic will be in the oceans by 2030, we will use a linear regression model.
 
  
 ## Dashboard 
 - Interactive dashboard was created in Tableau
 
 ## Analysis Results
-write something here
+
+We found the countries that had the highest amounts of mismanaged plastic waste. 
 
 Recommendations and improvements for future analysis:
 - Having more time in discovering data sets
+- Choosing more robust data sets so that machine learning models are more effective
+- Examine how much waste countries export to other countries 
 
 
 
