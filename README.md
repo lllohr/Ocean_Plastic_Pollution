@@ -129,9 +129,13 @@ Mismanaged waste does not increase by increase in GDP. There are outliers, howev
 ## Dashboard 
 - [Interactive dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview) was created in Tableau
 
+An example of some of the features of our dashboard:
+![dashboard.gif](https://user-images.githubusercontent.com/99934391/181654546-0e915ea9-4b12-41e1-b33d-5f34d6d553a4.gif)
+
 ## Analysis Results
 
-We found the countries that had the highest amounts of mismanaged plastic waste. 
+Our analysis in Tableau revealed many interesting findings. In Europe, cigarette butts and filters were the most common type of plastic waste collected on beaches, by far. Various sized plastic and polystyrene pieces were also among the most common types, followed by plastic caps/lids, shopping bags, and food packaging. Spain and Romania contributed the most to the amount of cigarette butts and filters found on European beaches.
+We also found that the countries that had the highest amounts of mismanaged plastic waste may not necessarily have the highest GDP. China, which has the highest population, produces the most mismanaged plastic waste. On the other hand, the United States has a high population and GDP, but a disproportionately low amount of mismanaged plastic waste. This is likely because the US and other countries ship their waste to other countries to be processed. 
 
 ----
 # Recommendations and improvements for future analysis:
