@@ -38,7 +38,7 @@ The purpose of this project
 2. Elimination null values
 3. Renaming columns
 4. Assigning new vaules to Country codes and plastic pollution
-5. Creating a key to combine tables
+5. Creating a diagram to combine tables for PostgreSQL
 - The image below represents the common connect between our datasets, country:
 
 ![QuickDBD-ocean_plastic_pollution](https://user-images.githubusercontent.com/96746207/181399878-1bd2fbae-3bd6-4e1d-a849-fd668410c974.png)
