@@ -70,16 +70,17 @@ To predict how much plastic will be in the oceans by 2030, we will use a linear 
 
  
 ## Dashboard 
-- Interactive dashboard was created in Tableau
+- [Interactive dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview) was created in Tableau
 
 ## Analysis Results
 
 We found the countries that had the highest amounts of mismanaged plastic waste. 
 
-Recommendations and improvements for future analysis:
+# Recommendations and improvements for future analysis:
 - Having more time in discovering data sets
 - Choosing more robust data sets so that machine learning models are more effective
 - Examine how much waste countries export to other countries 
+- Find data on the types of plastic pollution found in areas outside of Europe
 - Additional predictions considering [The Ocean Cleanup](https://theoceancleanup.com/)'s efforts of removing ocean garbage and intercepting river waste from entering oceans 
 
 
