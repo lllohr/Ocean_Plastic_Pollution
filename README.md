@@ -33,6 +33,9 @@ We chose to create visualizations of our findings in Tableau.
 
 3. https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
+4. https://ourworldindata.org/grapher/per-capita-plastic-waste-vs-gdp-per-capita
+
+
 ## Analysis & Results
 
 ### Initial Data exploration phase
