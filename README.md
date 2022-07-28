@@ -93,7 +93,7 @@ For the logistic regression, we created bins to classify our metric tonnage for 
 
 Our models were not conclusive. 
 
-Although not conclusively, our models did seem to indicate that countries with lower GDP had higer instances of mismanaged waste or mismanaged waste that was equal to the higher GDP countries. 
+Although not conclusively, our models did seem to indicate that countries with lower GDP had higher instances of mismanaged waste or mismanaged waste that was equal to the higher GDP countries. 
 
 ---
 ![Waste by GDP](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/7c6eb55148c7bee98ae37ade5c9c73915067f061/Machine_Learning/images/waste_by_gdp.png)
