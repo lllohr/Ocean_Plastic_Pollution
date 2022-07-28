@@ -39,6 +39,10 @@ The purpose of this project
 3. Renaming columns
 4. Assigning new vaules to Country codes and plastic pollution
 5. Creating a key to combine tables
+- The image below represents the common connect between our datasets, country:
+
+
+   
 
 ### Amazon Web Service (AWS) RDS instance & Database
 1. Read in data from S3 Buckets for four CSV files
