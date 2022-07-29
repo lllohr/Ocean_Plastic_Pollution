@@ -13,7 +13,7 @@ Plastic pollution threatens food safety and quality, human health, coastal touri
 
 The purpose of this project is to analyze data on mismanaged plastic in oceans.
 
-We hope to answer the follow questions:
+We hope to answer the following questions:
 1. What are the most common types of plastic found in the ocean? 
 2. Which countries pollute the most plastic?
 3. Is there a correlation between a country's GDP (Gross Domestic Product) and ocean plastic pollution?
