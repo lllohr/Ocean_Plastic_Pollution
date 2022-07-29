@@ -130,7 +130,7 @@ Mismanaged waste does not increase by increase in GDP. There are outliers, howev
 - [Interactive dashboard](https://public.tableau.com/app/profile/andrea.lee.dacy/viz/Ocean_Plastic_723/OceanPlasticPollutionOverview) was created in Tableau
 
 An example of some of the features of our dashboard:
-![dashboard.gif](https://user-images.githubusercontent.com/99934391/181654546-0e915ea9-4b12-41e1-b33d-5f34d6d553a4.gif)
+<img src="https://user-images.githubusercontent.com/99934391/181654546-0e915ea9-4b12-41e1-b33d-5f34d6d553a4.gif" width="900">
 
 ## Analysis Results
 
