@@ -48,7 +48,7 @@ We chose to use PostgreSQL and various machine learning models. We then created 
 
 ![QuickDBD-ocean_plastic_pollution](https://user-images.githubusercontent.com/96746207/181399878-1bd2fbae-3bd6-4e1d-a849-fd668410c974.png)
 
-
+There were actually 164 rows in the `Data` table, each coding to a different type of waste. This ERD only shows a sample of this data.
    
 ----
 ### Amazon Web Service (AWS) RDS instance & Database
