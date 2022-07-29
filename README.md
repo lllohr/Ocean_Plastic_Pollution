@@ -122,7 +122,7 @@ China, India, Brazil, Indonesia, Nigeria, Pakistan, Bangladesh, Egypt were some 
 ![Map by Clusters](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/7c6eb55148c7bee98ae37ade5c9c73915067f061/Machine_Learning/images/map_by_clusters.png)
 ----
 
-Mismanaged waste does not increase by increase in GDP. There are outliers, however, our data did not support a direct correlation. 
+Mismanaged waste does not increase proportionally with GDP. There are outliers, however, our data did not support a direct correlation. 
 
 ----
  
