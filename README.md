@@ -100,7 +100,7 @@ Although not conclusively, our models did seem to indicate that countries with l
 
 ---
 
-What we found was not what we expected. We expected that the higher the GDP and therefore, the higher the consumerism, the higher the plastic waste. 
+What we found was not what we expected. We expected that the higher the GDP, and therefore, the higher the consumerism, the higher the plastic waste. 
 
 ---
 ![Top Country Contributors](https://github.com/lllohr/Ocean_Plastic_Pollution/blob/7c6eb55148c7bee98ae37ade5c9c73915067f061/Machine_Learning/images/top_countries_mt.png)
@@ -108,7 +108,7 @@ What we found was not what we expected. We expected that the higher the GDP and 
 
 **If we had more time, what would we explore next?**
 
-If we had more time, we would explore the reasons why we did not find what we thought we would and look into other dynamics that our data did not illuminate for us. Where is this plastic waste coming from? Is it landfills? Sewers? Are countries importing waste to other countries? 
+If we had more time, we would explore the reasons why we did not find what we thought we would and look into other dynamics that our data did not illuminate for us. Where is this plastic waste coming from? Is it landfills? Sewers? Which industries produce the most plastic waste? Are countries importing waste to other countries? 
 
 **What was the limitations of our data/machine learning models? What challenges did we have with creating/applying machine learning?**
 
